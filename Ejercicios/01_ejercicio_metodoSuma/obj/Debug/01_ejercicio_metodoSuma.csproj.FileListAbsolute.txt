@@ -1,0 +1,8 @@
+C:\Users\Emanuel\Documents\proyectos\C#\ejercicios\01_ejercicio_metodoSuma\obj\Debug\01_ejercicio_metodoSuma.csproj.AssemblyReference.cache
+C:\Users\Emanuel\Documents\proyectos\C#\ejercicios\01_ejercicio_metodoSuma\obj\Debug\01_ejercicio_metodoSuma.csproj.SuggestedBindingRedirects.cache
+C:\Users\Emanuel\Documents\proyectos\C#\ejercicios\01_ejercicio_metodoSuma\obj\Debug\01_ejercicio_metodoSuma.csproj.CoreCompileInputs.cache
+C:\Users\Emanuel\Documents\proyectos\C#\ejercicios\01_ejercicio_metodoSuma\bin\Debug\01_ejercicio_metodoSuma.exe.config
+C:\Users\Emanuel\Documents\proyectos\C#\ejercicios\01_ejercicio_metodoSuma\bin\Debug\01_ejercicio_metodoSuma.exe
+C:\Users\Emanuel\Documents\proyectos\C#\ejercicios\01_ejercicio_metodoSuma\bin\Debug\01_ejercicio_metodoSuma.pdb
+C:\Users\Emanuel\Documents\proyectos\C#\ejercicios\01_ejercicio_metodoSuma\obj\Debug\01_ejercicio_metodoSuma.exe
+C:\Users\Emanuel\Documents\proyectos\C#\ejercicios\01_ejercicio_metodoSuma\obj\Debug\01_ejercicio_metodoSuma.pdb

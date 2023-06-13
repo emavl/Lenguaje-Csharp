@@ -1,0 +1,8 @@
+C:\Users\Emanuel\Documents\proyectos\C#\UTN_Csharp\UTN_Csharp\bin\Debug\UTN_Csharp.exe.config
+C:\Users\Emanuel\Documents\proyectos\C#\UTN_Csharp\UTN_Csharp\bin\Debug\UTN_Csharp.exe
+C:\Users\Emanuel\Documents\proyectos\C#\UTN_Csharp\UTN_Csharp\bin\Debug\UTN_Csharp.pdb
+C:\Users\Emanuel\Documents\proyectos\C#\UTN_Csharp\UTN_Csharp\obj\Debug\02_Ejercicio.csproj.AssemblyReference.cache
+C:\Users\Emanuel\Documents\proyectos\C#\UTN_Csharp\UTN_Csharp\obj\Debug\02_Ejercicio.csproj.SuggestedBindingRedirects.cache
+C:\Users\Emanuel\Documents\proyectos\C#\UTN_Csharp\UTN_Csharp\obj\Debug\02_Ejercicio.csproj.CoreCompileInputs.cache
+C:\Users\Emanuel\Documents\proyectos\C#\UTN_Csharp\UTN_Csharp\obj\Debug\UTN_Csharp.exe
+C:\Users\Emanuel\Documents\proyectos\C#\UTN_Csharp\UTN_Csharp\obj\Debug\UTN_Csharp.pdb

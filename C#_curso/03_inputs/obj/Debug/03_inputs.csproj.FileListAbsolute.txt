@@ -1,0 +1,16 @@
+C:\Users\Emanuel\Documents\proyectos\C#\01_variables\03_inputs\bin\Debug\03_inputs.exe.config
+C:\Users\Emanuel\Documents\proyectos\C#\01_variables\03_inputs\bin\Debug\03_inputs.exe
+C:\Users\Emanuel\Documents\proyectos\C#\01_variables\03_inputs\bin\Debug\03_inputs.pdb
+C:\Users\Emanuel\Documents\proyectos\C#\01_variables\03_inputs\obj\Debug\03_inputs.csproj.AssemblyReference.cache
+C:\Users\Emanuel\Documents\proyectos\C#\01_variables\03_inputs\obj\Debug\03_inputs.csproj.SuggestedBindingRedirects.cache
+C:\Users\Emanuel\Documents\proyectos\C#\01_variables\03_inputs\obj\Debug\03_inputs.csproj.CoreCompileInputs.cache
+C:\Users\Emanuel\Documents\proyectos\C#\01_variables\03_inputs\obj\Debug\03_inputs.exe
+C:\Users\Emanuel\Documents\proyectos\C#\01_variables\03_inputs\obj\Debug\03_inputs.pdb
+C:\Users\Emanuel\Documents\proyectos\C#\C#_curso\03_inputs\bin\Debug\03_inputs.exe.config
+C:\Users\Emanuel\Documents\proyectos\C#\C#_curso\03_inputs\bin\Debug\03_inputs.exe
+C:\Users\Emanuel\Documents\proyectos\C#\C#_curso\03_inputs\bin\Debug\03_inputs.pdb
+C:\Users\Emanuel\Documents\proyectos\C#\C#_curso\03_inputs\obj\Debug\03_inputs.csproj.AssemblyReference.cache
+C:\Users\Emanuel\Documents\proyectos\C#\C#_curso\03_inputs\obj\Debug\03_inputs.csproj.SuggestedBindingRedirects.cache
+C:\Users\Emanuel\Documents\proyectos\C#\C#_curso\03_inputs\obj\Debug\03_inputs.csproj.CoreCompileInputs.cache
+C:\Users\Emanuel\Documents\proyectos\C#\C#_curso\03_inputs\obj\Debug\03_inputs.exe
+C:\Users\Emanuel\Documents\proyectos\C#\C#_curso\03_inputs\obj\Debug\03_inputs.pdb

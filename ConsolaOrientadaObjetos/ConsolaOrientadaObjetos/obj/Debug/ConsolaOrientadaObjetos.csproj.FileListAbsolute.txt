@@ -1,0 +1,11 @@
+C:\Users\Emanuel\Documents\proyectos\C#\ConsolaOrientadaObjetos\ConsolaOrientadaObjetos\bin\Debug\ConsolaOrientadaObjetos.exe.config
+C:\Users\Emanuel\Documents\proyectos\C#\ConsolaOrientadaObjetos\ConsolaOrientadaObjetos\bin\Debug\ConsolaOrientadaObjetos.exe
+C:\Users\Emanuel\Documents\proyectos\C#\ConsolaOrientadaObjetos\ConsolaOrientadaObjetos\bin\Debug\ConsolaOrientadaObjetos.pdb
+C:\Users\Emanuel\Documents\proyectos\C#\ConsolaOrientadaObjetos\ConsolaOrientadaObjetos\bin\Debug\Biblioteca_ejemplo.dll
+C:\Users\Emanuel\Documents\proyectos\C#\ConsolaOrientadaObjetos\ConsolaOrientadaObjetos\bin\Debug\Biblioteca_ejemplo.pdb
+C:\Users\Emanuel\Documents\proyectos\C#\ConsolaOrientadaObjetos\ConsolaOrientadaObjetos\obj\Debug\ConsolaOrientadaObjetos.csproj.AssemblyReference.cache
+C:\Users\Emanuel\Documents\proyectos\C#\ConsolaOrientadaObjetos\ConsolaOrientadaObjetos\obj\Debug\ConsolaOrientadaObjetos.csproj.SuggestedBindingRedirects.cache
+C:\Users\Emanuel\Documents\proyectos\C#\ConsolaOrientadaObjetos\ConsolaOrientadaObjetos\obj\Debug\ConsolaOrientadaObjetos.csproj.CoreCompileInputs.cache
+C:\Users\Emanuel\Documents\proyectos\C#\ConsolaOrientadaObjetos\ConsolaOrientadaObjetos\obj\Debug\ConsolaOrientadaObjetos.csproj.CopyComplete
+C:\Users\Emanuel\Documents\proyectos\C#\ConsolaOrientadaObjetos\ConsolaOrientadaObjetos\obj\Debug\ConsolaOrientadaObjetos.exe
+C:\Users\Emanuel\Documents\proyectos\C#\ConsolaOrientadaObjetos\ConsolaOrientadaObjetos\obj\Debug\ConsolaOrientadaObjetos.pdb

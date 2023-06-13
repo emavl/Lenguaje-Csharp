@@ -1,0 +1,8 @@
+C:\Users\Emanuel\Documents\proyectos\C#\C#_curso\08_ifAnidados\bin\Debug\08_ifAnidados.exe.config
+C:\Users\Emanuel\Documents\proyectos\C#\C#_curso\08_ifAnidados\bin\Debug\08_ifAnidados.exe
+C:\Users\Emanuel\Documents\proyectos\C#\C#_curso\08_ifAnidados\bin\Debug\08_ifAnidados.pdb
+C:\Users\Emanuel\Documents\proyectos\C#\C#_curso\08_ifAnidados\obj\Debug\08_ifAnidados.csproj.AssemblyReference.cache
+C:\Users\Emanuel\Documents\proyectos\C#\C#_curso\08_ifAnidados\obj\Debug\08_ifAnidados.csproj.SuggestedBindingRedirects.cache
+C:\Users\Emanuel\Documents\proyectos\C#\C#_curso\08_ifAnidados\obj\Debug\08_ifAnidados.csproj.CoreCompileInputs.cache
+C:\Users\Emanuel\Documents\proyectos\C#\C#_curso\08_ifAnidados\obj\Debug\08_ifAnidados.exe
+C:\Users\Emanuel\Documents\proyectos\C#\C#_curso\08_ifAnidados\obj\Debug\08_ifAnidados.pdb

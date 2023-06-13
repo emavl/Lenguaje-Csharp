@@ -1,0 +1,8 @@
+C:\Users\Emanuel\Documents\proyectos\C#\C#_curso\05_IngresoUsuario\bin\Debug\05_IngresoUsuario.exe.config
+C:\Users\Emanuel\Documents\proyectos\C#\C#_curso\05_IngresoUsuario\bin\Debug\05_IngresoUsuario.exe
+C:\Users\Emanuel\Documents\proyectos\C#\C#_curso\05_IngresoUsuario\bin\Debug\05_IngresoUsuario.pdb
+C:\Users\Emanuel\Documents\proyectos\C#\C#_curso\05_IngresoUsuario\obj\Debug\05_IngresoUsuario.csproj.AssemblyReference.cache
+C:\Users\Emanuel\Documents\proyectos\C#\C#_curso\05_IngresoUsuario\obj\Debug\05_IngresoUsuario.csproj.SuggestedBindingRedirects.cache
+C:\Users\Emanuel\Documents\proyectos\C#\C#_curso\05_IngresoUsuario\obj\Debug\05_IngresoUsuario.csproj.CoreCompileInputs.cache
+C:\Users\Emanuel\Documents\proyectos\C#\C#_curso\05_IngresoUsuario\obj\Debug\05_IngresoUsuario.exe
+C:\Users\Emanuel\Documents\proyectos\C#\C#_curso\05_IngresoUsuario\obj\Debug\05_IngresoUsuario.pdb

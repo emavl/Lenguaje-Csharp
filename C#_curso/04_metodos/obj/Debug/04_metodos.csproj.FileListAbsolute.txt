@@ -1,0 +1,16 @@
+C:\Users\Emanuel\Documents\proyectos\C#\01_variables\04_metodos\bin\Debug\04_metodos.exe.config
+C:\Users\Emanuel\Documents\proyectos\C#\01_variables\04_metodos\bin\Debug\04_metodos.exe
+C:\Users\Emanuel\Documents\proyectos\C#\01_variables\04_metodos\bin\Debug\04_metodos.pdb
+C:\Users\Emanuel\Documents\proyectos\C#\01_variables\04_metodos\obj\Debug\04_metodos.csproj.AssemblyReference.cache
+C:\Users\Emanuel\Documents\proyectos\C#\01_variables\04_metodos\obj\Debug\04_metodos.csproj.SuggestedBindingRedirects.cache
+C:\Users\Emanuel\Documents\proyectos\C#\01_variables\04_metodos\obj\Debug\04_metodos.csproj.CoreCompileInputs.cache
+C:\Users\Emanuel\Documents\proyectos\C#\01_variables\04_metodos\obj\Debug\04_metodos.exe
+C:\Users\Emanuel\Documents\proyectos\C#\01_variables\04_metodos\obj\Debug\04_metodos.pdb
+C:\Users\Emanuel\Documents\proyectos\C#\C#_curso\04_metodos\obj\Debug\04_metodos.csproj.AssemblyReference.cache
+C:\Users\Emanuel\Documents\proyectos\C#\C#_curso\04_metodos\obj\Debug\04_metodos.csproj.SuggestedBindingRedirects.cache
+C:\Users\Emanuel\Documents\proyectos\C#\C#_curso\04_metodos\obj\Debug\04_metodos.csproj.CoreCompileInputs.cache
+C:\Users\Emanuel\Documents\proyectos\C#\C#_curso\04_metodos\obj\Debug\04_metodos.exe
+C:\Users\Emanuel\Documents\proyectos\C#\C#_curso\04_metodos\obj\Debug\04_metodos.pdb
+C:\Users\Emanuel\Documents\proyectos\C#\C#_curso\04_metodos\bin\Debug\04_metodos.exe.config
+C:\Users\Emanuel\Documents\proyectos\C#\C#_curso\04_metodos\bin\Debug\04_metodos.exe
+C:\Users\Emanuel\Documents\proyectos\C#\C#_curso\04_metodos\bin\Debug\04_metodos.pdb

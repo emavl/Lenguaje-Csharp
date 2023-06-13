@@ -1,0 +1,8 @@
+C:\Users\Emanuel\Documents\proyectos\C#\C#_curso\14_OOP\bin\Debug\14_OOP.exe.config
+C:\Users\Emanuel\Documents\proyectos\C#\C#_curso\14_OOP\bin\Debug\14_OOP.exe
+C:\Users\Emanuel\Documents\proyectos\C#\C#_curso\14_OOP\bin\Debug\14_OOP.pdb
+C:\Users\Emanuel\Documents\proyectos\C#\C#_curso\14_OOP\obj\Debug\14_OOP.csproj.AssemblyReference.cache
+C:\Users\Emanuel\Documents\proyectos\C#\C#_curso\14_OOP\obj\Debug\14_OOP.csproj.SuggestedBindingRedirects.cache
+C:\Users\Emanuel\Documents\proyectos\C#\C#_curso\14_OOP\obj\Debug\14_OOP.csproj.CoreCompileInputs.cache
+C:\Users\Emanuel\Documents\proyectos\C#\C#_curso\14_OOP\obj\Debug\14_OOP.exe
+C:\Users\Emanuel\Documents\proyectos\C#\C#_curso\14_OOP\obj\Debug\14_OOP.pdb

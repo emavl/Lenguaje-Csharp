@@ -1,0 +1,8 @@
+C:\Users\Emanuel\Documents\proyectos\C#\C#_curso\10_Clases\bin\Debug\10_Clases.exe.config
+C:\Users\Emanuel\Documents\proyectos\C#\C#_curso\10_Clases\bin\Debug\10_Clases.exe
+C:\Users\Emanuel\Documents\proyectos\C#\C#_curso\10_Clases\bin\Debug\10_Clases.pdb
+C:\Users\Emanuel\Documents\proyectos\C#\C#_curso\10_Clases\obj\Debug\10_Clases.csproj.AssemblyReference.cache
+C:\Users\Emanuel\Documents\proyectos\C#\C#_curso\10_Clases\obj\Debug\10_Clases.csproj.SuggestedBindingRedirects.cache
+C:\Users\Emanuel\Documents\proyectos\C#\C#_curso\10_Clases\obj\Debug\10_Clases.csproj.CoreCompileInputs.cache
+C:\Users\Emanuel\Documents\proyectos\C#\C#_curso\10_Clases\obj\Debug\10_Clases.exe
+C:\Users\Emanuel\Documents\proyectos\C#\C#_curso\10_Clases\obj\Debug\10_Clases.pdb

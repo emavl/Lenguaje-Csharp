@@ -1,0 +1,8 @@
+C:\Users\Emanuel\Documents\proyectos\C#\C#_curso\TryParse\bin\Debug\TryParse.exe.config
+C:\Users\Emanuel\Documents\proyectos\C#\C#_curso\TryParse\bin\Debug\TryParse.exe
+C:\Users\Emanuel\Documents\proyectos\C#\C#_curso\TryParse\bin\Debug\TryParse.pdb
+C:\Users\Emanuel\Documents\proyectos\C#\C#_curso\TryParse\obj\Debug\07_TryParse.csproj.AssemblyReference.cache
+C:\Users\Emanuel\Documents\proyectos\C#\C#_curso\TryParse\obj\Debug\07_TryParse.csproj.SuggestedBindingRedirects.cache
+C:\Users\Emanuel\Documents\proyectos\C#\C#_curso\TryParse\obj\Debug\07_TryParse.csproj.CoreCompileInputs.cache
+C:\Users\Emanuel\Documents\proyectos\C#\C#_curso\TryParse\obj\Debug\TryParse.exe
+C:\Users\Emanuel\Documents\proyectos\C#\C#_curso\TryParse\obj\Debug\TryParse.pdb

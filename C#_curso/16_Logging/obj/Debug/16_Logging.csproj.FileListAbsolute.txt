@@ -1,0 +1,8 @@
+C:\Users\Emanuel\Documents\proyectos\C#\C#_curso\16_Logging\bin\Debug\16_Logging.exe.config
+C:\Users\Emanuel\Documents\proyectos\C#\C#_curso\16_Logging\bin\Debug\16_Logging.exe
+C:\Users\Emanuel\Documents\proyectos\C#\C#_curso\16_Logging\bin\Debug\16_Logging.pdb
+C:\Users\Emanuel\Documents\proyectos\C#\C#_curso\16_Logging\obj\Debug\16_Logging.csproj.AssemblyReference.cache
+C:\Users\Emanuel\Documents\proyectos\C#\C#_curso\16_Logging\obj\Debug\16_Logging.csproj.SuggestedBindingRedirects.cache
+C:\Users\Emanuel\Documents\proyectos\C#\C#_curso\16_Logging\obj\Debug\16_Logging.csproj.CoreCompileInputs.cache
+C:\Users\Emanuel\Documents\proyectos\C#\C#_curso\16_Logging\obj\Debug\16_Logging.exe
+C:\Users\Emanuel\Documents\proyectos\C#\C#_curso\16_Logging\obj\Debug\16_Logging.pdb

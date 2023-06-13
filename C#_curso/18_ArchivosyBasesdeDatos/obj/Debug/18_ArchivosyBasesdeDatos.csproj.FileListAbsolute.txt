@@ -1,0 +1,11 @@
+C:\Users\Emanuel\Documents\proyectos\C#\C#_curso\18_ArchivosyBasesdeDatos\bin\Debug\18_ArchivosyBasesdeDatos.exe.config
+C:\Users\Emanuel\Documents\proyectos\C#\C#_curso\18_ArchivosyBasesdeDatos\bin\Debug\18_ArchivosyBasesdeDatos.exe
+C:\Users\Emanuel\Documents\proyectos\C#\C#_curso\18_ArchivosyBasesdeDatos\bin\Debug\18_ArchivosyBasesdeDatos.pdb
+C:\Users\Emanuel\Documents\proyectos\C#\C#_curso\18_ArchivosyBasesdeDatos\obj\Debug\18_ArchivosyBasesdeDatos.csproj.AssemblyReference.cache
+C:\Users\Emanuel\Documents\proyectos\C#\C#_curso\18_ArchivosyBasesdeDatos\obj\Debug\18_ArchivosyBasesdeDatos.csproj.SuggestedBindingRedirects.cache
+C:\Users\Emanuel\Documents\proyectos\C#\C#_curso\18_ArchivosyBasesdeDatos\obj\Debug\_18_ArchivosyBasesdeDatos.Form1.resources
+C:\Users\Emanuel\Documents\proyectos\C#\C#_curso\18_ArchivosyBasesdeDatos\obj\Debug\_18_ArchivosyBasesdeDatos.Properties.Resources.resources
+C:\Users\Emanuel\Documents\proyectos\C#\C#_curso\18_ArchivosyBasesdeDatos\obj\Debug\18_ArchivosyBasesdeDatos.csproj.GenerateResource.cache
+C:\Users\Emanuel\Documents\proyectos\C#\C#_curso\18_ArchivosyBasesdeDatos\obj\Debug\18_ArchivosyBasesdeDatos.csproj.CoreCompileInputs.cache
+C:\Users\Emanuel\Documents\proyectos\C#\C#_curso\18_ArchivosyBasesdeDatos\obj\Debug\18_ArchivosyBasesdeDatos.exe
+C:\Users\Emanuel\Documents\proyectos\C#\C#_curso\18_ArchivosyBasesdeDatos\obj\Debug\18_ArchivosyBasesdeDatos.pdb

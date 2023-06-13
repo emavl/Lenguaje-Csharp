@@ -1,0 +1,16 @@
+C:\Users\Emanuel\Documents\proyectos\C#\01_variables\01_variables\bin\Debug\01_variables.exe.config
+C:\Users\Emanuel\Documents\proyectos\C#\01_variables\01_variables\bin\Debug\01_variables.exe
+C:\Users\Emanuel\Documents\proyectos\C#\01_variables\01_variables\bin\Debug\01_variables.pdb
+C:\Users\Emanuel\Documents\proyectos\C#\01_variables\01_variables\obj\Debug\01_variables.csproj.AssemblyReference.cache
+C:\Users\Emanuel\Documents\proyectos\C#\01_variables\01_variables\obj\Debug\01_variables.csproj.SuggestedBindingRedirects.cache
+C:\Users\Emanuel\Documents\proyectos\C#\01_variables\01_variables\obj\Debug\01_variables.csproj.CoreCompileInputs.cache
+C:\Users\Emanuel\Documents\proyectos\C#\01_variables\01_variables\obj\Debug\01_variables.exe
+C:\Users\Emanuel\Documents\proyectos\C#\01_variables\01_variables\obj\Debug\01_variables.pdb
+C:\Users\Emanuel\Documents\proyectos\C#\C#_curso\01_variables\bin\Debug\01_variables.exe.config
+C:\Users\Emanuel\Documents\proyectos\C#\C#_curso\01_variables\bin\Debug\01_variables.exe
+C:\Users\Emanuel\Documents\proyectos\C#\C#_curso\01_variables\bin\Debug\01_variables.pdb
+C:\Users\Emanuel\Documents\proyectos\C#\C#_curso\01_variables\obj\Debug\01_variables.csproj.AssemblyReference.cache
+C:\Users\Emanuel\Documents\proyectos\C#\C#_curso\01_variables\obj\Debug\01_variables.csproj.SuggestedBindingRedirects.cache
+C:\Users\Emanuel\Documents\proyectos\C#\C#_curso\01_variables\obj\Debug\01_variables.csproj.CoreCompileInputs.cache
+C:\Users\Emanuel\Documents\proyectos\C#\C#_curso\01_variables\obj\Debug\01_variables.exe
+C:\Users\Emanuel\Documents\proyectos\C#\C#_curso\01_variables\obj\Debug\01_variables.pdb

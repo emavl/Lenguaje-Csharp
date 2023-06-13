@@ -1,0 +1,11 @@
+C:\Users\Emanuel\Documents\proyectos\C#\C#_curso\15_winwosForm\bin\Debug\15_winwosForm.exe.config
+C:\Users\Emanuel\Documents\proyectos\C#\C#_curso\15_winwosForm\bin\Debug\15_winwosForm.exe
+C:\Users\Emanuel\Documents\proyectos\C#\C#_curso\15_winwosForm\bin\Debug\15_winwosForm.pdb
+C:\Users\Emanuel\Documents\proyectos\C#\C#_curso\15_winwosForm\obj\Debug\15_winwosForm.csproj.AssemblyReference.cache
+C:\Users\Emanuel\Documents\proyectos\C#\C#_curso\15_winwosForm\obj\Debug\15_winwosForm.csproj.SuggestedBindingRedirects.cache
+C:\Users\Emanuel\Documents\proyectos\C#\C#_curso\15_winwosForm\obj\Debug\_15_winwosForm.Properties.Resources.resources
+C:\Users\Emanuel\Documents\proyectos\C#\C#_curso\15_winwosForm\obj\Debug\15_winwosForm.csproj.GenerateResource.cache
+C:\Users\Emanuel\Documents\proyectos\C#\C#_curso\15_winwosForm\obj\Debug\15_winwosForm.csproj.CoreCompileInputs.cache
+C:\Users\Emanuel\Documents\proyectos\C#\C#_curso\15_winwosForm\obj\Debug\15_winwosForm.exe
+C:\Users\Emanuel\Documents\proyectos\C#\C#_curso\15_winwosForm\obj\Debug\15_winwosForm.pdb
+C:\Users\Emanuel\Documents\proyectos\C#\C#_curso\15_winwosForm\obj\Debug\_15_winwosForm.Form_Principal.resources

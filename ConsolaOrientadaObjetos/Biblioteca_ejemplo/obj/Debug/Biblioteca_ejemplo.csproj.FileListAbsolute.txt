@@ -1,0 +1,6 @@
+C:\Users\Emanuel\Documents\proyectos\C#\ConsolaOrientadaObjetos\Biblioteca_ejemplo\bin\Debug\Biblioteca_ejemplo.dll
+C:\Users\Emanuel\Documents\proyectos\C#\ConsolaOrientadaObjetos\Biblioteca_ejemplo\bin\Debug\Biblioteca_ejemplo.pdb
+C:\Users\Emanuel\Documents\proyectos\C#\ConsolaOrientadaObjetos\Biblioteca_ejemplo\obj\Debug\Biblioteca_ejemplo.csproj.AssemblyReference.cache
+C:\Users\Emanuel\Documents\proyectos\C#\ConsolaOrientadaObjetos\Biblioteca_ejemplo\obj\Debug\Biblioteca_ejemplo.csproj.CoreCompileInputs.cache
+C:\Users\Emanuel\Documents\proyectos\C#\ConsolaOrientadaObjetos\Biblioteca_ejemplo\obj\Debug\Biblioteca_ejemplo.dll
+C:\Users\Emanuel\Documents\proyectos\C#\ConsolaOrientadaObjetos\Biblioteca_ejemplo\obj\Debug\Biblioteca_ejemplo.pdb

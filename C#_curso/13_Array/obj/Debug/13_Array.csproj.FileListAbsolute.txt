@@ -1,0 +1,8 @@
+C:\Users\Emanuel\Documents\proyectos\C#\C#_curso\13_Array\bin\Debug\13_Array.exe.config
+C:\Users\Emanuel\Documents\proyectos\C#\C#_curso\13_Array\bin\Debug\13_Array.exe
+C:\Users\Emanuel\Documents\proyectos\C#\C#_curso\13_Array\bin\Debug\13_Array.pdb
+C:\Users\Emanuel\Documents\proyectos\C#\C#_curso\13_Array\obj\Debug\13_Array.csproj.AssemblyReference.cache
+C:\Users\Emanuel\Documents\proyectos\C#\C#_curso\13_Array\obj\Debug\13_Array.csproj.SuggestedBindingRedirects.cache
+C:\Users\Emanuel\Documents\proyectos\C#\C#_curso\13_Array\obj\Debug\13_Array.csproj.CoreCompileInputs.cache
+C:\Users\Emanuel\Documents\proyectos\C#\C#_curso\13_Array\obj\Debug\13_Array.exe
+C:\Users\Emanuel\Documents\proyectos\C#\C#_curso\13_Array\obj\Debug\13_Array.pdb

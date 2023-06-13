@@ -1,0 +1,8 @@
+C:\Users\Emanuel\Documents\proyectos\C#\C#_curso\02bis_Strings\bin\Debug\02bis_Strings.exe.config
+C:\Users\Emanuel\Documents\proyectos\C#\C#_curso\02bis_Strings\bin\Debug\02bis_Strings.exe
+C:\Users\Emanuel\Documents\proyectos\C#\C#_curso\02bis_Strings\bin\Debug\02bis_Strings.pdb
+C:\Users\Emanuel\Documents\proyectos\C#\C#_curso\02bis_Strings\obj\Debug\02bis_Strings.csproj.AssemblyReference.cache
+C:\Users\Emanuel\Documents\proyectos\C#\C#_curso\02bis_Strings\obj\Debug\02bis_Strings.csproj.SuggestedBindingRedirects.cache
+C:\Users\Emanuel\Documents\proyectos\C#\C#_curso\02bis_Strings\obj\Debug\02bis_Strings.csproj.CoreCompileInputs.cache
+C:\Users\Emanuel\Documents\proyectos\C#\C#_curso\02bis_Strings\obj\Debug\02bis_Strings.exe
+C:\Users\Emanuel\Documents\proyectos\C#\C#_curso\02bis_Strings\obj\Debug\02bis_Strings.pdb

@@ -1,0 +1,8 @@
+C:\Users\Emanuel\Documents\proyectos\C#\Tips_antesDeComenzar\Tips_desharp\bin\Debug\Tips_desharp.exe.config
+C:\Users\Emanuel\Documents\proyectos\C#\Tips_antesDeComenzar\Tips_desharp\bin\Debug\Tips_desharp.exe
+C:\Users\Emanuel\Documents\proyectos\C#\Tips_antesDeComenzar\Tips_desharp\bin\Debug\Tips_desharp.pdb
+C:\Users\Emanuel\Documents\proyectos\C#\Tips_antesDeComenzar\Tips_desharp\obj\Debug\Tips_desharp.csproj.AssemblyReference.cache
+C:\Users\Emanuel\Documents\proyectos\C#\Tips_antesDeComenzar\Tips_desharp\obj\Debug\Tips_desharp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Emanuel\Documents\proyectos\C#\Tips_antesDeComenzar\Tips_desharp\obj\Debug\Tips_desharp.csproj.CoreCompileInputs.cache
+C:\Users\Emanuel\Documents\proyectos\C#\Tips_antesDeComenzar\Tips_desharp\obj\Debug\Tips_desharp.exe
+C:\Users\Emanuel\Documents\proyectos\C#\Tips_antesDeComenzar\Tips_desharp\obj\Debug\Tips_desharp.pdb

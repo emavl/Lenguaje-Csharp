@@ -1,0 +1,8 @@
+C:\Users\Emanuel\Documents\proyectos\C#\C#_curso\09_ifMejorada\bin\Debug\09_ifMejorada.exe.config
+C:\Users\Emanuel\Documents\proyectos\C#\C#_curso\09_ifMejorada\bin\Debug\09_ifMejorada.exe
+C:\Users\Emanuel\Documents\proyectos\C#\C#_curso\09_ifMejorada\bin\Debug\09_ifMejorada.pdb
+C:\Users\Emanuel\Documents\proyectos\C#\C#_curso\09_ifMejorada\obj\Debug\09_ifMejorada.csproj.AssemblyReference.cache
+C:\Users\Emanuel\Documents\proyectos\C#\C#_curso\09_ifMejorada\obj\Debug\09_ifMejorada.csproj.SuggestedBindingRedirects.cache
+C:\Users\Emanuel\Documents\proyectos\C#\C#_curso\09_ifMejorada\obj\Debug\09_ifMejorada.csproj.CoreCompileInputs.cache
+C:\Users\Emanuel\Documents\proyectos\C#\C#_curso\09_ifMejorada\obj\Debug\09_ifMejorada.exe
+C:\Users\Emanuel\Documents\proyectos\C#\C#_curso\09_ifMejorada\obj\Debug\09_ifMejorada.pdb

@@ -1,0 +1,8 @@
+C:\Users\Emanuel\Documents\proyectos\C#\Ejercicios\03_Ejercicio\bin\Debug\03_Ejercicio.exe.config
+C:\Users\Emanuel\Documents\proyectos\C#\Ejercicios\03_Ejercicio\bin\Debug\03_Ejercicio.exe
+C:\Users\Emanuel\Documents\proyectos\C#\Ejercicios\03_Ejercicio\bin\Debug\03_Ejercicio.pdb
+C:\Users\Emanuel\Documents\proyectos\C#\Ejercicios\03_Ejercicio\obj\Debug\03_Ejercicio.csproj.AssemblyReference.cache
+C:\Users\Emanuel\Documents\proyectos\C#\Ejercicios\03_Ejercicio\obj\Debug\03_Ejercicio.csproj.SuggestedBindingRedirects.cache
+C:\Users\Emanuel\Documents\proyectos\C#\Ejercicios\03_Ejercicio\obj\Debug\03_Ejercicio.csproj.CoreCompileInputs.cache
+C:\Users\Emanuel\Documents\proyectos\C#\Ejercicios\03_Ejercicio\obj\Debug\03_Ejercicio.exe
+C:\Users\Emanuel\Documents\proyectos\C#\Ejercicios\03_Ejercicio\obj\Debug\03_Ejercicio.pdb

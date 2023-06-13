@@ -1,0 +1,8 @@
+C:\Users\Emanuel\Documents\proyectos\C#\C#_curso\06_01_tryAndCatch\bin\Debug\06_01_tryAndCatch.exe.config
+C:\Users\Emanuel\Documents\proyectos\C#\C#_curso\06_01_tryAndCatch\bin\Debug\06_01_tryAndCatch.exe
+C:\Users\Emanuel\Documents\proyectos\C#\C#_curso\06_01_tryAndCatch\bin\Debug\06_01_tryAndCatch.pdb
+C:\Users\Emanuel\Documents\proyectos\C#\C#_curso\06_01_tryAndCatch\obj\Debug\06_01_tryAndCatch.csproj.AssemblyReference.cache
+C:\Users\Emanuel\Documents\proyectos\C#\C#_curso\06_01_tryAndCatch\obj\Debug\06_01_tryAndCatch.csproj.SuggestedBindingRedirects.cache
+C:\Users\Emanuel\Documents\proyectos\C#\C#_curso\06_01_tryAndCatch\obj\Debug\06_01_tryAndCatch.csproj.CoreCompileInputs.cache
+C:\Users\Emanuel\Documents\proyectos\C#\C#_curso\06_01_tryAndCatch\obj\Debug\06_01_tryAndCatch.exe
+C:\Users\Emanuel\Documents\proyectos\C#\C#_curso\06_01_tryAndCatch\obj\Debug\06_01_tryAndCatch.pdb

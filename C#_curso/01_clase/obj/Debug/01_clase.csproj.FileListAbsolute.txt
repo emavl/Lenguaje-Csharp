@@ -1,0 +1,3 @@
+C:\Users\Emanuel\Documents\proyectos\C#\C#_curso\01_clase\obj\Debug\01_clase.csproj.AssemblyReference.cache
+C:\Users\Emanuel\Documents\proyectos\C#\C#_curso\01_clase\obj\Debug\01_clase.csproj.SuggestedBindingRedirects.cache
+C:\Users\Emanuel\Documents\proyectos\C#\C#_curso\01_clase\obj\Debug\01_clase.csproj.CoreCompileInputs.cache
